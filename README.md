@@ -23,6 +23,12 @@ To learn more before you start working with dbank, see the following documentati
 
 <br> 
 
+## 🚀 Deploy:
+
+If you want to access the project [click here](https://sheltered-citadel-73853.herokuapp.com/)
+
+<br>
+
 ## ▶️ Getting Started
 <br>
 
