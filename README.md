@@ -11,6 +11,9 @@
 
 
 ## 💻 About The Project :
+
+DBank is a powerful and safe bank for you to invest in your money and receive a lot back with no regret
+
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
 To learn more before you start working with dbank, see the following documentation available online:
