@@ -25,7 +25,7 @@ To learn more before you start working with dbank, see the following documentati
 
 ## 🚀 Deploy:
 
-If you want to access the project [click here](https://sheltered-citadel-73853.herokuapp.com/)
+If you want to access the project [click here](https://yblkw-gaaaa-aaaal-qbebq-cai.ic0.app/)
 
 <br>
 
